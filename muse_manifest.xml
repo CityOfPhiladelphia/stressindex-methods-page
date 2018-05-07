@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://cityofphiladelphia.github.io/stressindex-page" resolutions="1x" timestamp="1525700379631">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://cityofphiladelphia.github.io/stressindex-methods-page" resolutions="1x" timestamp="1525700986712">
   <folder name="css">
     <file name="site_global.css" crc="340858980"/>
     <file name="index.css" crc="360345361" ref="index"/>
@@ -25,31 +25,23 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="bell_poster_.png" crc="524533474" ref="index"/>
-    <file name="stressindexv2_diagram2584x591.jpg" crc="3942905949" seo="true" ref="index">
+    <file name="stressindexv2_diagram3.png" crc="4086954337" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="stressindexv2_diagram2505x511.jpg" crc="4195942147" seo="true" ref="index">
+    <file name="stressindexv2_diagram3454x460.png" crc="4086954337" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="stressindexv2_diagram2454x460.jpg" crc="4070997623" seo="true" ref="index">
+    <file name="stressindexv2_diagram3389x394.png" crc="4086954337" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="stressindexv2_diagram2389x394.jpg" crc="371462497" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="stressindexv2_diagram2.jpg" crc="3947707812" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="stressindexv2_diagram2532x538.jpg" crc="3893109042" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="stressindexv2_diagram2520x527.jpg" crc="180845961" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="stressindexv2_diagram2390x395.jpg" crc="175306188" seo="true" ref="index">
+    <file name="stressindexv2_diagram3390x395.png" crc="4086954337" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="4234542733" seo="true" mt="1525697970556" redirect="true"/>
+  <file name="index.html" crc="4184797896" seo="true" mt="1525700675342" redirect="true"/>
 </manifest>
